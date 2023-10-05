@@ -2,11 +2,12 @@
   <img src="https://media.tenor.com/ISMPf_S7nwUAAAAC/designer-developer.gif" alt="the two sides of my brain trying to work together">
 </p>
 <h1 align="center">Hello there!, I'm Horace 👍</h1>
+<p align="center">
+  Full Stack Developer | Architecture & Design Background | Creative + Technical
+</p>
 
 [![Visits Badge](https://badges.pufler.dev/visits/HoraceLChen/HoraceLChen)](https://www.horace-chen.com)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/HoraceLChen)](https://badges.pufler.dev)
-
-
 [![Last Stars Display](https://badges.pufler.dev/last-stars/HoraceLChen?count=3&padding=15&perRow=3)](https://github.com/HoraceLChen?tab=repositories)
 <!--
 **HoraceLChen/HoraceLChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
