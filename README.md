@@ -5,9 +5,12 @@
 <p align="center">
   Full Stack Developer | Architecture & Design Background | Creative + Technical
 </p>
+
+
+
 <div align="center">
 
-[![Visits Badge](https://badges.pufler.dev/visits/HoraceLChen/HoraceLChen)](https://www.horace-chen.com)
+[![Visits Badge](https://komarev.com/ghpvc/?username=HoraceLChen)](https://www.horace-chen.com)
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/HoraceLChen)](https://badges.pufler.dev)
 
