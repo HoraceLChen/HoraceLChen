@@ -1,9 +1,8 @@
 <p align="center">
   <img src="https://media.tenor.com/ISMPf_S7nwUAAAAC/designer-developer.gif" alt="the two sides of my brain trying to work together">
 </p>
-  ~the two sides of my brain trying to work together~
 <h1 align="center">Hello there!, I'm Horace 👍</h1>
-
+[![Visits Badge](https://badges.pufler.dev/visits/HoraceLChen/HoraceLChen)]
 <!--
 **HoraceLChen/HoraceLChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
