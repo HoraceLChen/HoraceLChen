@@ -1,6 +1,8 @@
-# Yahaha, you found me! 👋
-Inline-style:
-![alt text](https://miro.medium.com/v2/resize:fit:1400/1*kzyNlgVr0S1rqESP39OQbg.gif "Header Image")
+
+![alt text](https://media.tenor.com/ISMPf_S7nwUAAAAC/designer-developer.gif "Header Image")
+
+| :-: # Yahaha, you found me! Hi I'm Horace 👍 |
+
 
 <!--
 **HoraceLChen/HoraceLChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
