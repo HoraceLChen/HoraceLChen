@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello there!, I'm Horace 👍</h1>
 
-[![Visits Badge](https://badges.pufler.dev/visits/HoraceLChen/HoraceLChen)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/HoraceLChen/HoraceLChen)](https://horace-chen.com)
 <!--
 **HoraceLChen/HoraceLChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
