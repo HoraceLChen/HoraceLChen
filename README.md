@@ -67,10 +67,10 @@
 </p>
 
 <h3 align="left">Currently Learning</h3>
-  🔹 React<img src="./assets/584830f5cef1014c0b5e4aa1.png" alt="react" width="10" height="10">
-  🔹 Typescript
-  🔹 Python
-  🔹 Liquid
+  🔹 React </br>
+  🔹 Typescript </br>
+  🔹 Python </br>
+  🔹 Liquid </br>
 <p align="left">
 
 </p>
