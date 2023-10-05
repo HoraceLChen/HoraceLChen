@@ -1,8 +1,5 @@
-
-![alt text](https://media.tenor.com/ISMPf_S7nwUAAAAC/designer-developer.gif "Header Image")
-
 <p align="center">
-  <img src="https://media.tenor.com/ISMPf_S7nwUAAAAC/designer-developer.gif">
+  <img src="https://media.tenor.com/ISMPf_S7nwUAAAAC/designer-developer.gif" alt="the two sides of my brain trying to work together">
 </p>
 <h1 align="center">Hello there!, I'm Horace 👍</h1>
 
