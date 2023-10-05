@@ -9,7 +9,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/HoraceLChen/HoraceLChen)](https://www.horace-chen.com)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/HoraceLChen)](https://badges.pufler.dev)
-[![Last Stars Display](https://badges.pufler.dev/pinned/HoraceLChen?count=3&padding=15&perRow=3)](https://github.com/HoraceLChen?tab=repositories)
+[![Last Stars Display](https://badges.pufler.dev/last-starred/HoraceLChen?count=3&padding=15&perRow=3)](https://github.com/HoraceLChen?tab=repositories)
 ![Horace's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoraceLChen&show_icons=true&theme=transparent&border_color=00000000)
 
 
