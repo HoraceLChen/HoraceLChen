@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=HoraceLChen)](https://www.horace-chen.com)
+[![Visits Badge](https://komarev.com/ghpvc/?username=HoraceLChen&base=128)](https://www.horace-chen.com)
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/HoraceLChen)](https://badges.pufler.dev&color=blue)
 
