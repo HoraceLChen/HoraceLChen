@@ -1,6 +1,3 @@
-
-![alt text](https://media.tenor.com/ISMPf_S7nwUAAAAC/designer-developer.gif "Header Image")
-
 <p align="center">
   <img src="https://media.tenor.com/ISMPf_S7nwUAAAAC/designer-developer.gif">
 </p>
@@ -23,4 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+git add .
+git commit -m 'test'
+git push
 -->
