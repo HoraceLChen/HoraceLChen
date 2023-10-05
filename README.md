@@ -15,10 +15,9 @@
 
 </div>
 
-<div class="row">
+<div>
 
 ![Horace's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoraceLChen&show_icons=true&theme=transparent&border_color=00000000)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoraceLChen&layout=compact&theme=transparent&border_color=00000000)](https://github.com/HoraceLChen/github-readme-stats)
 </div>
 <!--
