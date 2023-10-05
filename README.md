@@ -15,7 +15,7 @@
 
 </div>
 
-<div>
+<div class="row">
 
 ![Horace's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoraceLChen&show_icons=true&theme=transparent&border_color=00000000)
 
