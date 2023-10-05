@@ -4,6 +4,10 @@
 <h1 align="center">Hello there!, I'm Horace 👍</h1>
 
 [![Visits Badge](https://badges.pufler.dev/visits/HoraceLChen/HoraceLChen)](https://www.horace-chen.com)
+
+[![Years Badge](https://badges.pufler.dev/years/HoraceLChen)](https://badges.pufler.dev)
+
+[![Last Stars Display](https://badges.pufler.dev/last-stars/HoraceLChen?count=3&padding=15&perRow=3)](https://github.com/HoraceLChen?tab=repositories)
 <!--
 **HoraceLChen/HoraceLChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
