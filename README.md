@@ -1,7 +1,7 @@
 
 ![alt text](https://media.tenor.com/ISMPf_S7nwUAAAAC/designer-developer.gif "Header Image")
 
-| :-: # Yahaha, you found me! Hi I'm Horace 👍 |
+| :# Yahaha, you found me! Hi I'm Horace 👍:  |
 
 
 <!--
