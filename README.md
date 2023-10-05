@@ -12,9 +12,7 @@
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=HoraceLChen)](https://www.horace-chen.com)
 
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/HoraceLChen&color=blue)](https://badges.pufler.dev)
-
-[![Last Stars Display](https://badges.pufler.dev/last-stars/HoraceLChen?count=3&padding=15&perRow=3)](https://github.com/HoraceLChen?tab=repositories)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/HoraceLChen)](https://badges.pufler.dev&color=blue)
 
 </div>
 
