@@ -70,6 +70,7 @@
   🔹 Typescript </br>
   🔹 Python </br>
   🔹 Liquid </br>
+  🔹 Java </br>
 <p align="left">
 
 </p>
