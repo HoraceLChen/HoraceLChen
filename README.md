@@ -15,7 +15,7 @@
 
 </div>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">⚒️Languages and Tools</h3>
 
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -65,14 +65,14 @@
   </a>
 </p>
 
-<h3 align="left">Currently Learning</h3>
+<h3 align="left">🌱Currently Learning</h3>
   🔹 React </br>
   🔹 Typescript </br>
   🔹 Python </br>
   🔹 Liquid </br>
   🔹 Java </br>
 <p align="left">
-
+<h3 align="left">📫Reach me here: Horace.l.chen@gmail.com</h3>
 </p>
 
 
