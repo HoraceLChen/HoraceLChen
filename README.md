@@ -11,8 +11,6 @@
 <div align="center">
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=HoraceLChen&base=128)](https://www.horace-chen.com)
-# [![Commits Badge](https://badges.pufler.dev/commits/monthly/HoraceLChen?color=blue)](https://badges.pufler.dev)
-
 </div>
 
 <h3 align="left">⚒️Languages and Tools</h3>
