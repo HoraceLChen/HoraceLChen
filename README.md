@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello there!, I'm Horace 👍</h1>
 <p align="center">
-  Full Stack Developer + Architecture & Design Background | Creative + Technical
+  Full Stack Developer | Architecture & Design Background = Technically Creative
 </p>
 
 
